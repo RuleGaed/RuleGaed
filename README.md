@@ -2,7 +2,7 @@
 
 **Senior Software Engineer | Backend Specialist | High-Performance Systems**
 
-Passionate about building scalable architectures, high-performance backend systems, and deep-level system optimizations. Expert in multiple languages and low-level server internals.
+Passionate about building scalable architectures, high-performance backend systems, and deep-level system optimizations. Expert in Java and Go with a focus on low-level server internals.
 
 ### 📊 GitHub Stats
 <p align="left">
@@ -15,7 +15,7 @@ Passionate about building scalable architectures, high-performance backend syste
 </p>
 
 ### 🛠 Technical Stack
-- **Languages:** Java (Expert), Go (High-Performance), Python (Automation/AI), C/C++ (Low-Level), C#
+- **Languages:** Java (Expert), Go (High-Performance), C/C++ (Basic)
 - **Backend:** Microservices, Async Systems, REST APIs, System Internals
 - **Infrastructure:** Docker, GitHub Actions, CI/CD, Maven/Gradle
 - **Specialization:** JVM Internals, Multithreading & Concurrency, Memory Management
