@@ -6,12 +6,12 @@ Passionate about building scalable architectures, high-performance backend syste
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=RuleGaed&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="RuleGaed Stats" />
+<img src="https://github-stats-alpha.vercel.app/api?username=RuleGaed&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="RuleGaed Stats" />
 </p>
 
 ### 🚀 Top Languages
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuleGaed&layout=compact&theme=dark&hide=css,html" alt="RuleGaed Languages" />
+<img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=RuleGaed&layout=compact&theme=dark&hide=css,html" alt="RuleGaed Languages" />
 </p>
 
 ### 🛠 Technical Stack
