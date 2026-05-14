@@ -3,7 +3,7 @@
 Senior Java Developer specializing in Minecraft Server Internals (NMS), High-Performance Systems, and Regional Threading (Folia/Canvas).
 
 ### 🛠 Technical Expertise
-- **Languages:** Java (Core/NMS), Go, Python
+- **Languages:** Java (Core/NMS), C, Go
 - **Minecraft Core:** Paper, Folia, Canvas, NMS (Minecraft Server Internals)
 - **Performance:** Async Systems, JVM Optimization, Regional Threading
 - **DevOps:** GitHub Actions, Maven, Gradle, Docker
