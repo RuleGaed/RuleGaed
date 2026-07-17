@@ -1,1 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=RuleGaed&show_icons=false&hide_border=true&rank_icon=github" />
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RuleGaed&theme=flat&column=4&margin-w=15&no-bg=true" />
+
+</div>
